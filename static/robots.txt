@@ -5,7 +5,7 @@ Allow: /videos/
 Allow: /static/
 
 # Sitemap location
-Sitemap: https://briannnabums.com/sitemap.xml
+Sitemap: https://kaylabumzy.com/sitemap.xml
 
 # Crawl delay to be respectful
 Crawl-delay: 1
